@@ -1,7 +1,9 @@
-# AI System Latency Budget & Reactive Scaling Architecture
+# AI Latency Budgeting & Reactive Scaling Framework
+### A Production Performance Reference by **Vipin Kumar**
 
-**Production Performance Reference**  
-Prepared by: Vipin Kumar
+© 2026 Vipin Kumar. All rights reserved.
+
+> **Technical Focus:** A production-grade blueprint for managing LLM inference latency budgets, establishing multi-tier scaling triggers, and implementing automated rollback logic based on p99 tail-latency behavior.
 
 ---
 
@@ -13,7 +15,7 @@ It defines how to:
 - Break down latency across pipeline stages
 - Establish end-to-end SLOs
 - Handle tail latency (p99)
-- Trigger scaling and backpressure
+- Trigger scaling and apply backpressure
 - Safely rollback under degradation
 
 ---
