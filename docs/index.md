@@ -3,8 +3,27 @@
 
 Welcome to the official documentation for the AI Latency Budgeting framework.
 
+🔗 **GitHub Repository:** [View on GitHub](https://github.com/mitvipink/ai-latency-budget-reactive-scaling)
+
+---
+## 🚀 Overview
+
+This project presents a production-grade latency budgeting model and reactive scaling architecture for AI systems using **p50, p95, and p99 latency signals**.
+
+It helps you:
+- Break down latency across pipeline stages
+- Define end-to-end SLOs
+- Handle tail latency (p99)
+- Trigger scaling and apply backpressure
+- Safely rollback under degradation
+
 ---
 
+## 📊 Architecture & Concepts
+
+👉 View full architecture and latency model in the [GitHub repository](https://github.com/mitvipink/ai-latency-budget-reactive-scaling)
+
+---
 ## 📄 Technical Reference
 
 The complete production reference, including latency modeling, SLO design, and tail-latency strategies, is available below:
