@@ -16,6 +16,7 @@ It helps you:
 - Handle tail latency (p99)
 - Trigger scaling and apply backpressure
 - Safely rollback under degradation
+- Optimize Infrastructure Costs: Prevent over-provisioning by using high-fidelity p99 signals to scale only when mathematically necessary.
 
 ---
 
