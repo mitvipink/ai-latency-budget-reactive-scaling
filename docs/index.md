@@ -1,11 +1,13 @@
 ---
 layout: default
 title: "AI Latency Budgeting & Reactive Scaling Framework"
-description: "A Production Performance Reference by Vipin Kumar"
+description: "A production-grade architectural framework and mathematical blueprint for LLM latency budgeting, reactive infrastructure scaling, SLO design, and p50/p95/p99-driven performance optimization."
 image: "https://raw.githubusercontent.com/mitvipink/ai-latency-budget-reactive-scaling/main/diagram.png"
 url: "https://mitvipink.github.io/ai-latency-budget-reactive-scaling/"
 type: "website"
 twitter_card: "summary_large_image"
+author: "Vipin Kumar"
+date: "2026-04-18"
 ---
 
 # AI Latency Budgeting & Reactive Scaling Framework
