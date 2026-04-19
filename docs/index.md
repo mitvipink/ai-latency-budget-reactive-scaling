@@ -1,3 +1,13 @@
+---
+layout: default
+title: "AI Latency Budgeting & Reactive Scaling Framework"
+description: "A Production Performance Reference by Vipin Kumar"
+image: "https://raw.githubusercontent.com/mitvipink/ai-latency-budget-reactive-scaling/main/diagram.png"
+url: "https://mitvipink.github.io/ai-latency-budget-reactive-scaling/"
+type: "website"
+twitter_card: "summary_large_image"
+---
+
 # AI Latency Budgeting & Reactive Scaling Framework
 ### A Production Performance Reference by Vipin Kumar
 
